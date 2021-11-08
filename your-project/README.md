@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-*[Your Name]*
+*Pong Game by Arnau, Omar y Salvador*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics Full Time, Ironhack México, 08-11-2021*
 
 ## Content
 - [Project Description](#project-description)
